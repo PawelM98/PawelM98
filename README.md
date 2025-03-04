@@ -4,7 +4,8 @@ I am a budding Full Stack Developer and Digital Designer passionate about buildi
 ## 👨‍💻 Technologies I work with:
 - 🌐 Frontend: HTML, CSS, JavaScript, React, Vue
 - 🎨 Design: Figma
-- ⚙️ Backend: PHP, Laravel
+- 📈 Nocode Tools: Webflow, Framer
+- ⚙️ Backend: PHP, Laravel, Symfony, Yii2, Python
 - 🗄️ Databases: PostgreSQL
 - 🛠️ Tools: Git, GitHub, PHP Storm, VS Code
 
