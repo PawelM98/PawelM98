@@ -2,12 +2,12 @@
 I am a budding Full Stack Developer and Digital Designer passionate about building modern web applications and crafting intuitive, visually appealing interfaces. My goal is to seamlessly blend great design with efficient development to create engaging and user-friendly experiences.
 
 ## 👨‍💻 Technologies I work with:
-- 🌐 Frontend: HTML, CSS, JavaScript, React, Vue
+- 🌐 Frontend: React, Typescript
 - 🎨 Design: Figma
 - 📈 Nocode Tools: Webflow, Framer
-- ⚙️ Backend: PHP, Laravel, Symfony, Yii2, Python
+- ⚙️ Backend: Next.js, Node.js, Python
 - 🗄️ Databases: PostgreSQL
-- 🛠️ Tools: Git, GitHub, PHP Storm, VS Code
+- 🛠️ Tools: GitHub, VS Code
 
 ## 🎯 What drives me?
 I enjoy creating dynamic and interactive applications that solve real-world problems. My goal is to write efficient, scalable, and intuitive code that makes a difference!
