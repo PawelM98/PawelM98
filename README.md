@@ -4,17 +4,8 @@ I am a budding Full Stack Developer and Digital Designer passionate about buildi
 ## 👨‍💻 Technologies I work with:
 - 🌐 Frontend: React, Typescript
 - 🎨 Design: Figma
-- 📈 Nocode Tools: Webflow, Framer
-- ⚙️ Backend: Next.js, Node.js, Python
+- ⚙️ Backend: Node.js
 - 🗄️ Databases: PostgreSQL
 - 🛠️ Tools: GitHub, VS Code
-
-## 🎯 What drives me?
-I enjoy creating dynamic and interactive applications that solve real-world problems. My goal is to write efficient, scalable, and intuitive code that makes a difference!
-
-## 🚀 What am I up to now?
-- Enhancing my skills in React, TypeScript and Next.js
-- Learning more about UI/UX design principles
-- Looking for exciting challenges in the programming world
 
 Check out my repositories and see what I'm currently working on! 🖥️🚀
